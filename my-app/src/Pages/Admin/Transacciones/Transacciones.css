@@ -1,0 +1,13 @@
+
+.tabla{
+    border: 1px solid black;
+    margin-left: 40vh;
+    margin-top: 30vh;
+}
+.thead{
+    border: 1px solid black;
+} 
+.filtro{
+    border: 1px solid black;
+    margin-left: 40vh;
+}
